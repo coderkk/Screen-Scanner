@@ -94,3 +94,12 @@ Run the compiled executable:
 ```
 Or double-click `screen_scanner.exe` in Windows Explorer. It starts silently and places an icon in your system tray.
 
+---
+
+## 📄 License
+
+This project is dual-licensed under the **MIT License** and the **Apache License, Version 2.0** (*you may choose either*).
+
+- [LICENSE-MIT](LICENSE-MIT)
+- [LICENSE-APACHE](LICENSE-APACHE)
+
