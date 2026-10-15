@@ -1,0 +1,4 @@
+/target
+scanner_config.json
+scanner_history.json
+*.exe
